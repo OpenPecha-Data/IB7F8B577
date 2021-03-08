@@ -4,4 +4,44 @@ source_metadata:
   id: bdr:W3PD109
   title: 中国历史地图集
   author: ''
-  volumes: {}
+  volumes:
+    5cbbb3f3d6e245f88f02c1d9b6617e5b:
+      image_group_id: I2PD15094
+      title: ''
+      volume_number: 1
+      total_pages: 129
+    e9b9de6cfaf249d0a9cd248739bd257d:
+      image_group_id: I2PD15095
+      title: ''
+      volume_number: 2
+      total_pages: 149
+    382ed42a33954224b70683678b20c231:
+      image_group_id: I2PD15096
+      title: ''
+      volume_number: 3
+      total_pages: 139
+    073f71a20b314ef0bfeff847f8ce1b01:
+      image_group_id: I2PD15097
+      title: ''
+      volume_number: 4
+      total_pages: 157
+    346814c5a3b2479f8ab724f85e9a0c00:
+      image_group_id: I2PD15098
+      title: ''
+      volume_number: 5
+      total_pages: 220
+    9b332925e0774c49b7e70cd7e9171e11:
+      image_group_id: I2PD15099
+      title: ''
+      volume_number: 6
+      total_pages: 191
+    e2dabf2ded6c45ec90c596f2b9cc3ddd:
+      image_group_id: I2PD15100
+      title: ''
+      volume_number: 7
+      total_pages: 231
+    a3005e77db614fcbb75797bf636bd03f:
+      image_group_id: I2PD15101
+      title: ''
+      volume_number: 8
+      total_pages: 197
